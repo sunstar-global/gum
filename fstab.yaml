@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://sunstarsuisse.sharepoint.com/sites/GlobalSunstarWebsite/Shared%20Documents/websites/gum
+  /: https://sunstarsuisse.sharepoint.com/:f:/r/sites/GlobalSunstarWebsite/Shared%20Documents/websites/gum
 
 folders:
   /products/: /products/default
