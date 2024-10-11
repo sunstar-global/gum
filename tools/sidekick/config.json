@@ -5,7 +5,8 @@
             "id": "cif",
             "title": "Commerce",
             "environments": [
-                "edit"
+                "edit",
+                "preview"
             ],
             "url": "https://main--gum--sunstar-global.hlx.live/tools/picker/dist/index.html",
             "isPalette": true,
